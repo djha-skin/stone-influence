@@ -7,8 +7,8 @@ Generate a coloured “influence map” from a Go SGF file.
 The map shows, for every board intersection, a blended colour that
 represents the influence of the two players:
 
-* **Blue** (100 % = #0000ff)  – black stones
-* **Yellow** (100 % = #ffff00) – white stones
+* **Green** (100 % = #00ff00)  – black stones
+* **Red** (100 % = #ff0000) – white stones
 
 The influence percentage for a colour at a point is
 
