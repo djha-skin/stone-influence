@@ -6,3 +6,5 @@ wanted to be able to see it.
 I plugged my idea into an AI and it coded the following script up for me.
 
 I hope you find it useful.
+
+![Stone Influence GIF](influence.gif)
