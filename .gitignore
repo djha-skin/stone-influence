@@ -1,0 +1,10 @@
+# Images/Videos
+*.png
+*.mp4
+# Editor save
+*.sw[a-z]
+*~
+\#*
+.*#
+.#*
+*.bak
